@@ -1,2 +1,2 @@
-# uta
-UTA Service Ukrainian Text Analyzer
+# Модуль аналізу тональності текстів на українській мові
+Основний документ - sentiment analysis.pdf
