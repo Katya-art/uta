@@ -7,6 +7,7 @@ module.exports = [
 	ner("/ner/geo","../grams/geo.js","GEO"),
 	ner("/ner/uri","../grams/uri.js","URI"),
 	ner("/ner/number","../grams/number.js","NUMBER"),
-	require("./custom.js")
+	require("./custom.js"),
+	require("./tonality_module.js")
 
 ]
