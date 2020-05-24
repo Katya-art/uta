@@ -39,7 +39,7 @@ function first_method(data){
 }
 
 module.exports = {
-	route: "/my_try",
+	route: "/tonality_module",
 	handler: (req, res) => {
 		tokeize(req.body.text)
 			.then(tokens => {
